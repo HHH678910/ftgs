@@ -1,0 +1,24 @@
+# Dataset and training artifacts
+data/
+output/
+**/checkpoints/
+**/runs/
+*.pth
+*.pt
+*.ckpt
+*.ply
+
+# Python cache/build
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Local env / editor
+.env
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
