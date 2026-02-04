@@ -14,6 +14,11 @@ __pycache__/
 *.pyo
 *.pyd
 .pytest_cache/
+build/
+**/build/
+*.so
+*.egg-info/
+**/*.egg-info/
 
 # Local env / editor
 .env
